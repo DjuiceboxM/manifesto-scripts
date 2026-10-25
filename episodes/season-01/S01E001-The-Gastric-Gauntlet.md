@@ -5,7 +5,7 @@ episode: 001
 date: 2025-01-16
  
 characters:
-  - Juicebox
+  - Juicebox Dao Technomancer
   - Kenji The Dudeist Papillon
  
 topics:
