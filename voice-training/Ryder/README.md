@@ -1,24 +1,19 @@
-# Ryder
- 
-Species:
-Rooster
+Ryder
  
 Role:
-GarageLab Security Officer
+Director of Security
  
-Alignment:
-Chaotic Protective
+Secondary Duties:
+Threat Assessment
+Unauthorized Rooster Operations
  
-Core Philosophy:
-Violence is a networking protocol.
+Personality:
+Shoot First
+Ask Questions Later
  
-Known Abilities:
+Special Ability:
+Attempts to Communicate In English
  
-- Perimeter inspection
-- Emergency alert generation
-- Camera awareness
-- Occasional English approximation
- 
-Favorite Activity:
- 
-Investigating anything that might be watching him.
+Known Incidents:
+Successfully identified surveillance infrastructure
+within minutes of installation.
