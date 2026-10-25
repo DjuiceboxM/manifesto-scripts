@@ -1,3 +1,31 @@
+---
+title: The Gastric Gauntlet
+season: Operation HG-U
+episode: 001
+date: 2025-01-16
+ 
+characters:
+  - Juicebox
+  - Kenji The Dudeist Papillon
+ 
+topics:
+  - Hyperemesis Gravidarum
+  - Pregnancy
+  - Caregiving
+  - Nutrition
+  - Family
+  - Survival
+ 
+status: Canon
+ 
+tags:
+  - HMHS
+  - GarageLab
+  - Juicebox
+  - Kenji
+  - Operation-HG-U
+---
+
 # The Gastric Gauntlet
  
 > Some battles are fought with infrastructure.
