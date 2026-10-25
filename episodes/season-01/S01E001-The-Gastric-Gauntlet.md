@@ -1,15 +1,16 @@
-# S01E001: The Gastric Gauntlet
+# The Gastric Gauntlet
  
-The first recorded episode of Operation HG-U.
+> Some battles are fought with infrastructure.
+>
+> Some are fought with medicine.
+>
+> Some are fought two hours at a time.
  
-Part technical report.
-Part caregiving journal.
-Part survival log.
+Operation HG-U documents one of the most difficult chapters in the early GarageLab era.
  
-Written during an active Hyperemesis Gravidarum and ulcer recovery period, this episode follows Juicebox and Kenji as they attempt to engineer a sustainable nutritional protocol while navigating sleep deprivation, caregiving responsibilities, and day-to-day GarageLab chaos.
+Written during an active Hyperemesis Gravidarum and ulcer recovery period, this episode follows Juicebox and Kenji as they attempt to engineer a nutritional survival strategy while navigating sleep deprivation, caregiving responsibilities, and the realities of everyday life.
  
-Unlike later episodes that analyze completed systems, The Gastric Gauntlet documents a problem while it is still unfolding.
+Unlike later episodes that analyze finished systems, The Gastric Gauntlet records a system still under active repair.
  
-Not every battle in GarageLab is fought against software.
+This episode remains preserved in its original spirit as a historical artifact of the GarageLab canon.
  
-Some are fought two hours at a time.
